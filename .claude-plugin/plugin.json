@@ -1,0 +1,11 @@
+{
+  "name": "ai-fluency",
+  "version": "1.0.0",
+  "description": "AI Fluency skills for reliably thinking, deciding, and acting with AI systems while retaining human judgment, accountability, and strategic clarity",
+  "author": {
+    "name": "Leo Bessa",
+    "email": "leobessa@gmail.com"
+  },
+  "homepage": "https://github.com/leobessa/claude-plugins-ai-fluency",
+  "keywords": ["ai-fluency", "prompting", "human-ai-collaboration", "4d-framework", "verification", "governance"]
+}
